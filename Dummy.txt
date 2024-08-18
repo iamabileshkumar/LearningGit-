@@ -1,1 +1,2 @@
 hello i am abilesh.I am Learning Git and Github.
+Hello I am going to learn about git reset
